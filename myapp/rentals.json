@@ -1,0 +1,16 @@
+{
+  "rentals": [
+    {
+      "maker": "Toyota",
+      "model": "Corolla",
+      "days": 3,
+      "units": 2
+    },
+    {
+      "maker": "Seat",
+      "model": "Corolla",
+      "days": 3,
+      "units": 2
+    }
+  ]
+}
